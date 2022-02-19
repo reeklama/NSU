@@ -1,0 +1,2 @@
+# NSU
+University assignments
